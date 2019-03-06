@@ -1,4 +1,6 @@
 # Notebook-OS
 
-操作系统学习总结
+[Notebook系列](https://github.com/dp9u0/Notebook)
+
+操作系统技术栈
 
